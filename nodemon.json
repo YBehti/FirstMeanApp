@@ -1,0 +1,6 @@
+{
+  "env":{
+    "MONGO_ATLAS_PSW":"dd0FoixmxgKFmfEG",
+    "TOKEN_SECRET":"this-is-my-secret"
+  }
+}

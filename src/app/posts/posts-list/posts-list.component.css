@@ -1,0 +1,18 @@
+.info-text {
+
+  text-align: center;
+
+}
+mat-spinner{
+  margin:auto;
+}
+.image-display{
+  width:100%;
+}
+mat-paginator{
+  margin-top: 1rem;
+}
+
+.image-display img{
+  width:100%;
+}
